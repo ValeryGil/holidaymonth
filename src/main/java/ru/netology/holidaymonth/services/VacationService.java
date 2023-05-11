@@ -1,3 +1,5 @@
+package ru.netology.holidaymonth.services;
+
 public class VacationService {
 
     public int calculate(int income, int expenses, int threshold) {

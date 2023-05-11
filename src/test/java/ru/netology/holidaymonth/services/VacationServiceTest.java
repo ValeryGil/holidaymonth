@@ -1,3 +1,5 @@
+package ru.netology.holidaymonth.services;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
